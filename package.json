@@ -1,7 +1,7 @@
 {
   "name": "specials",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "description": "An Atom syntax theme inspired by the Specials Board theme",
   "repository": "https://github.com/jpinnix/specials",
